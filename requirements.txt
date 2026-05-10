@@ -144,3 +144,10 @@ wincertstore==0.2
 wrapt==1.12.1
 yapf==0.31.0
 zipp==3.5.0
+selenium>=4.0.0
+webdriver-manager>=3.8.0
+beautifulsoup4>=4.9.3
+pandera>=0.13.0
+pytest>=7.0.0
+scikit-learn>=1.0.0
+openpyxl>=3.0.0
